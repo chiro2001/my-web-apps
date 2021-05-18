@@ -1,0 +1,1 @@
+jarsigner -keystore release-key.keystore app-release-signed.apk crosst-app

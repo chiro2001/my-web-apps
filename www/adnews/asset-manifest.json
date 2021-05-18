@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/android_asset/www/adnews/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/android_asset/www/adnews/static/js/main.9881309e.chunk.js",
+    "main.js.map": "/android_asset/www/adnews/static/js/main.9881309e.chunk.js.map",
+    "runtime-main.js": "/android_asset/www/adnews/static/js/runtime-main.b794396e.js",
+    "runtime-main.js.map": "/android_asset/www/adnews/static/js/runtime-main.b794396e.js.map",
+    "static/css/2.63cd7831.chunk.css": "/android_asset/www/adnews/static/css/2.63cd7831.chunk.css",
+    "static/js/2.54706e27.chunk.js": "/android_asset/www/adnews/static/js/2.54706e27.chunk.js",
+    "static/js/2.54706e27.chunk.js.map": "/android_asset/www/adnews/static/js/2.54706e27.chunk.js.map",
+    "index.html": "/android_asset/www/adnews/index.html",
+    "precache-manifest.830a04dbde4e6f04de41d404f72b1893.js": "/android_asset/www/adnews/precache-manifest.830a04dbde4e6f04de41d404f72b1893.js",
+    "service-worker.js": "/android_asset/www/adnews/service-worker.js",
+    "static/css/2.63cd7831.chunk.css.map": "/android_asset/www/adnews/static/css/2.63cd7831.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/android_asset/www/adnews/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.54706e27.chunk.js.LICENSE.txt": "/android_asset/www/adnews/static/js/2.54706e27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b794396e.js",
+    "static/css/2.63cd7831.chunk.css",
+    "static/js/2.54706e27.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.9881309e.chunk.js"
+  ]
+}
